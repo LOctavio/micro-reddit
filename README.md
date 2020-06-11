@@ -5,7 +5,7 @@
 ## Built With
 
 - Ruby on Rails
-- sqlite3
+- SQlite3
 - Ruby
 
 ## Authors
