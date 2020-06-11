@@ -16,7 +16,7 @@
 - Twitter: [@Octavio_ram431](https://twitter.com/Octavio_ram431)
 - Linkedin: [luis-octavio-ramirez-cruz](https://www.linkedin.com/in/luis-octavio-ramirez-cruz)
 
-👤 **Nurislam Ab**
+👤 **Nurislam Abd**
 
 - Github: [@nurislam-ab](https://github.com/nurislam-ab/ )
 - Twitter: [@NurislamAb](https://twitter.com/NurislamAb)
